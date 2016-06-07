@@ -47,7 +47,7 @@ The browser must support:
 
 Chrome Canary | Chrome | Firefox | IE | Opera | Safari
 :------------:|:------:|:-------:|:--:|:-----:|:-----:
-✔            |✘       |✘       |✘   |✘     |✘
+✔             |✔      |✘       |✘   |✘     |✘
 
 ## Features
 
