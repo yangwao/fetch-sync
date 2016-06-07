@@ -161,11 +161,11 @@ Examples:
 
 Get a sync by its name.
 
+- __name__ {String} name of the sync operation to get
+
 Returns the Promise that resolves with success of the sync operation.
 
 There are some properties/methods on the returned Promise. See the [Sync API](#sync-api) for more details.
-
-- __name__ {String} name of the sync operation to get
 
 ### `fetchSync.getAll() : Array<Promise>`
 
